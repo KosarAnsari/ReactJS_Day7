@@ -71,14 +71,7 @@ This repository contains beginner-friendly ReactJS practice questions focusing o
 
 ## 🔗 Author
 
-Created by KOSAR ANSARI  
-
-
-## 📂 Folder Structure Suggestion
-
-src/ │ ├── components/ │   ├── Counter.jsx │   ├── ToggleText.jsx │   ├── ColorButton.jsx │   ├── InputTracker.jsx │   ├── LightSwitch.jsx │   ├── TimeOfDay.jsx │   ├── LoginToggle.jsx │   ├── FormSubmit.jsx │   ├── IncDecCounter.jsx │   ├── ImageToggle.jsx │   ├── TodoApp.jsx │   ├── CharCounter.jsx │   └── LikeButton.jsx │ └── App.jsx
-
----
+Created by KOSAR ANSARI 
 
 Feel free to fork and modify the code for your own learning.
 
